@@ -1,6 +1,6 @@
-# Machine Learning Projects 🤖
+# Data Analysis Project 🤖
 
-A collection of hands-on ML and data analysis 
+A collection of hands-on data analysis 
 projects using Python.
 
 ## Projects
